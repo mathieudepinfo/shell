@@ -1,0 +1,35 @@
+# depslib dependency file v1.0
+1510788430 source:/home/mathieu/workspace/projetsC/rs2017-Billot-Marsot/main.c
+	<stdio.h>
+
+1511304105 source:/home/mathieu/workspace/projetsC/rs2017-Billot-Marsot/tesh.c
+	"tesh.h"
+
+1511090810 source:/home/mathieu/workspace/projetsC/rs2017-Billot-Marsot/CommandStruct.c
+	"CommandStruct.h"
+
+1511090795 /home/mathieu/workspace/projetsC/rs2017-Billot-Marsot/CommandStruct.h
+	<stdlib.h>
+	"Defines.h"
+
+1511281464 /home/mathieu/workspace/projetsC/rs2017-Billot-Marsot/Defines.h
+
+1511123398 source:/home/mathieu/workspace/projetsC/rs2017-Billot-Marsot/StringManagement.c
+	"StringManagement.h"
+
+1510870769 /home/mathieu/workspace/projetsC/rs2017-Billot-Marsot/StringManagement.h
+	<string.h>
+	<stdio.h>
+	<stdlib.h>
+	"Defines.h"
+
+1511204429 /home/mathieu/workspace/projetsC/rs2017-Billot-Marsot/tesh.h
+	<stdlib.h>
+	<unistd.h>
+	<wait.h>
+	<readline/readline.h>
+	<readline/history.h>
+	"Defines.h"
+	"CommandStruct.h"
+	"StringManagement.h"
+
