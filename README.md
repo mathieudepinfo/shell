@@ -1,1 +1,1 @@
-dépôt-template pour le projet RS 2017
+Linux shell made for the operating system course.
